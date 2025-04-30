@@ -1,6 +1,6 @@
 <p>
-<a href="https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JS&B_HD_Audio_Pack.zip">
-<img src="https://raw.githubusercontent.com/RiskiVR/JSB_HD_Music_Pack/refs/heads/main/JS%2526B%20HD%20Music%20Pack/JS%2526B%20HD%20Music%20Pack.png" width="100%">
+<a href="https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip">
+<img src="https://raw.githubusercontent.com/RiskiVR/JSB_HD_Music_Pack/refs/heads/main/JS%26B%20HD%20Music%20Pack/JS%26B%20HD%20Music%20Pack.png" width="100%">
 </p>
 
 # [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JS&B_HD_Audio_Pack.zip)
