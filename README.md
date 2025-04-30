@@ -15,7 +15,7 @@ This project was really painful to figure out when it game to importing them int
 Check the list below to see which tracks were replaced & remastered!
 
 > [!NOTE]
-> Track selection preview audio is not affected
+> Track selection preview audio is not affected.
 
 ## List of Remastered audio files
 | Artist | Track | Remastered | Comments / Notes |
@@ -85,9 +85,8 @@ Check the list below to see which tracks were replaced & remastered!
 | Avenza | Wicked | ✅ | 
 | Kevin Phetsomphou | Yokuman | ✅ | 
 
-> [!NOTE]
-> <b>Bonus:</b> The Ending cutscene of Story Mode includes an HD Remaster of it's song!
-> <br> Video codec was copied, so no quality was lost during the encoding process.
+> This pack includes an HD Audio remaster of the ending cutscene from Story Mode! <br>
+> The video codec was copied, so no quality was lost during the encoding process.
 
 ## Feedback & Contact
 - Discord: riskivr
