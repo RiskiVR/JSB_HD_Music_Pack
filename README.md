@@ -64,7 +64,7 @@ Check the list below to see which tracks were replaced & remastered!
 | Cardi | Lycanthropy | ❌ | PERFECT QUALITY! ⭐
 | MDK | Interlaced | ❌ | Passable
 | Bossfight | Milky Ways | ✅ | This had a bug at the start lol
-| The Immortals | Techno Syndrome (Mortal Kombat) | ✅ | How dare you mix to mono >:(
+| The Immortals | Techno Syndrome (Mortal Kombat) | ✅ | How dare you mix down to mono!! <br>>:(
 | Nitro Fun | New Game | ✅ | 
 | Shirobon | On the Run | ✅ | Passable, Remastered Anyway
 | Shawn Daley | Paper Dolls | ✅ | 
