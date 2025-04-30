@@ -12,6 +12,9 @@ This project was really painful to figure out, as every level is an Asset Bundle
 
 Check the list below to see which tracks were replaced & remastered!
 
+> [!NOTE]
+> Track selection preview audio is not affected
+
 ## List of Remastered audio files
 | Artist | Track | Remastered | Comments / Notes |
 | --- | --- | --- | --- |
