@@ -1,9 +1,12 @@
 <p>
 <a href="https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip">
 <img src="https://raw.githubusercontent.com/RiskiVR/JSB_HD_Music_Pack/refs/heads/main/JS%26B%20HD%20Music%20Pack/JS%26B%20HD%20Music%20Pack.png" width="100%">
+  <h1 align="center">
+    <a href="https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip">Download Pack!
+  </h1>
 </p>
 
-# [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip)
+
   
 Welcome to the JS&B HD Music Pack! This pack replaces most audio files for the game's levels. <br>
 Every single remastered audio file was edited to match the timing and cutting of the original tracks, and encoded to 450kbps vorbis. <br>
