@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/RiskiVR/JSB_HD_Music_Pack/refs/heads/main/JS%26B%20HD%20Music%20Pack/JS%26B%20HD%20Music%20Pack.png" width="100%">
 </p>
 
-# [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JS&B_HD_Audio_Pack.zip)
+# [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip)
   
 Welcome to the JS&B HD Music Pack! This pack replaces most audio files for the game's levels.
 Not every song needed a replacement, however most of them did.
