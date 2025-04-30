@@ -3,12 +3,11 @@
 <img src="https://raw.githubusercontent.com/RiskiVR/JSB_HD_Music_Pack/refs/heads/main/JS%26B%20HD%20Music%20Pack/JS%26B%20HD%20Music%20Pack.png" width="100%">
 </p>
 
-# [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JS&B_HD_Audio_Pack.zip)
+# [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip)
   
-Welcome to the JS&B HD Music Pack! This pack replaces most audio files for the game's levels.
-Not every song needed a replacement, however most of them did.
-This project was really painful to figure out, as every level is an Asset Bundle.
-<br>
+Welcome to the JS&B HD Music Pack! This pack replaces most audio files for the game's levels. <br>
+Every single remastered audio file was edited to match the timing and cutting of the original tracks, and encoded to 450kbps vorbis. <br>
+This project was really painful to figure out when it game to importing them into the game, as every level is an Asset Bundle. <br>
 
 Check the list below to see which tracks were replaced & remastered!
 
@@ -64,7 +63,7 @@ Check the list below to see which tracks were replaced & remastered!
 | Cardi | Lycanthropy | ❌ | PERFECT QUALITY! ⭐
 | MDK | Interlaced | ❌ | Passable
 | Bossfight | Milky Ways | ✅ | This had a bug at the start lol
-| The Immortals | Techno Syndrome (Mortal Kombat) | ✅ | How dare you mix to mono >:(
+| The Immortals | Techno Syndrome (Mortal Kombat) | ✅ | How dare you mix down to mono!! >:(
 | Nitro Fun | New Game | ✅ | 
 | Shirobon | On the Run | ✅ | Passable, Remastered Anyway
 | Shawn Daley | Paper Dolls | ✅ | 
@@ -76,7 +75,7 @@ Check the list below to see which tracks were replaced & remastered!
 | Danimal Cannon | Strike the Earth | ✅ | VERY Passable
 | Pixl | Sugar Rush | ✅ | 
 | Sabrepulse | Termination Shock | ✅ | This one was really bad
-| Tristam | Till It's Over | 🟨 | Slow piano section unedited
+| Tristam | Till It's Over | ✅ | Slow piano section unedited
 | Chipzel | Tokyo Skies | ✅ | 
 | Pegboard Nerds | Try This | ✅ | 
 | Big Giant Circles | Vindicate Me | ❌ | VERY Passable
