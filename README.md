@@ -5,10 +5,9 @@
 
 # [Download the pack now!](https://github.com/RiskiVR/JSB_HD_Music_Pack/releases/latest/download/JSB.HD.Music.Pack.zip)
   
-Welcome to the JS&B HD Music Pack! This pack replaces most audio files for the game's levels.
-Not every song needed a replacement, however most of them did.
-This project was really painful to figure out, as every level is an Asset Bundle.
-<br>
+Welcome to the JS&B HD Music Pack! This pack replaces most audio files for the game's levels. <br>
+Every single remastered audio file was edited to match the timing and cutting of the original tracks, and encoded to 450kbps vorbis. <br>
+This project was really painful to figure out when it game to importing them into the game, as every level is an Asset Bundle. <br>
 
 Check the list below to see which tracks were replaced & remastered!
 
