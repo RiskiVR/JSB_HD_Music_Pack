@@ -76,7 +76,7 @@ Check the list below to see which tracks were replaced & remastered!
 | Danimal Cannon | Strike the Earth | ✅ | VERY Passable
 | Pixl | Sugar Rush | ✅ | 
 | Sabrepulse | Termination Shock | ✅ | This one was really bad
-| Tristam | Till It's Over | 🟨 | Slow piano section unedited
+| Tristam | Till It's Over | ✅ | Slow piano section unedited
 | Chipzel | Tokyo Skies | ✅ | 
 | Pegboard Nerds | Try This | ✅ | 
 | Big Giant Circles | Vindicate Me | ❌ | VERY Passable
