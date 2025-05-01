@@ -24,7 +24,7 @@ Check the list below to see which tracks were replaced & remastered!
 | Chipzel | Art Of War | ✅ |
 | Noisestorm | Barracuda | ✅ | 
 | Omnitica | I'm Being Reelistic (Boat Gameplay) | ✅ | 
-| Shirobon | Song | ✅ | 
+| Shirobon | Born Survivor | ✅ | 
 | Kubbi | Cascade | ✅ | 
 | Nitro Fun | Cheat Codes | ✅ | 
 | Danimal Cannon & Zef | Chronos | ✅ | 
