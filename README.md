@@ -75,7 +75,7 @@ Check the list below to see which tracks were replaced & remastered!
 | Big Giant Circles | Sevcon | ✅ | 
 | Chipzel | Spectra | ❌ | VERY Passable
 | Shirobon | Spider Dance | ✅ | Passable, Remastered Anyway
-| Danimal Cannon | Strike the Earth | ✅ | VERY Passable
+| Danimal Cannon | Strike the Earth | ❌ | VERY Passable
 | Pixl | Sugar Rush | ✅ | 
 | Sabrepulse | Termination Shock | ✅ | This one was really bad
 | Tristam | Till It's Over | ✅ | Slow piano section unedited
